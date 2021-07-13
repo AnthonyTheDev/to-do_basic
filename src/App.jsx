@@ -1,5 +1,5 @@
 import React, { useRef, useEffect, useState } from "react";
-import styles from "./app.css";
+import "./app.css";
 
 const App = () => {
   const [taskList, setTaskList] = useState([]);
